@@ -13,13 +13,13 @@ An electrical grid maintenance team has to find its way to the location of the m
 ## Program input
 The program takes a text file as input. The file must contain a set criteria of caracters.
 
-- * : maintenance team
-- I : open interrupter
-- J : closed interrupter
-- B : location of broken cable
-- # : obstacle
-- M : house
-- C : cable
-- S : electric power source
+- '*' : maintenance team
+- 'I' : open interrupter
+- 'J' : closed interrupter
+- 'B' : location of broken cable
+- '#' : obstacle
+- 'M' : house
+- 'C' : cable
+- 'S' : electric power source
 
 
