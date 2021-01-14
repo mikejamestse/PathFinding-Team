@@ -23,6 +23,10 @@ The program takes a text file as input. The file must contain a set criteria of 
 - 'C' : cable
 - 'S' : electric power source
 
+To run the program on a console
+</br>
+`java Driver <testFile.txt>`
+
 ## Program output
 The program outputs the directions, step by step, on the console. Directions and actions are denoted by a set of definite caracters.
 
