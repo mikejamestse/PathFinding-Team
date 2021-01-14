@@ -31,7 +31,7 @@ The program outputs the directions, step by step, on the console. Directions and
 - 'N' : North
 - 'S' : South
 - 'E' : Est
-- 'O' : West
+- 'W' : West
 
 ## Example
 
