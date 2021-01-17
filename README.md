@@ -36,7 +36,7 @@ The program outputs the directions, step by step, on the console. Directions and
 ## Run the program
 To run the program on a console
 </br>
-`javac *.java`
+`javac *.java`</br>
 `java Driver <testFile.txt>`
 
 ## Example
