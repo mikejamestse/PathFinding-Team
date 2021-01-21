@@ -36,8 +36,13 @@ The program outputs the directions, step by step, on the console. Directions and
 ## Run the program
 To run the program on a console
 </br>
+
+Navigate to the project directory.
+
 `javac *.java`</br>
 `java Driver <testFile.txt>`
+
+For test file examples, refer to test1.txt and text2.txt in the repository.
 
 ## Example
 
