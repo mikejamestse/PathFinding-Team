@@ -1,7 +1,7 @@
 # PathFinding-Team
 Pathfinding AI implemented with the A* algorithm.
 
-Version 1.0.0
+Version 1.0
 
 ## Introduction
 An electrical grid maintenance team has to find its way to the location of the malfuntionnning cable to repair it and thus, restore the electrical system to the neighbourhood.
@@ -9,7 +9,7 @@ An electrical grid maintenance team has to find its way to the location of the m
 ## Constraints
 - The interrupter of the electric power source has to be turned off before repairing the broken cable, or the team gets electrocuted!
 - To get the power running again to the neighbourhood, the team has to go back to the interruptor and switch it back on.
-- Version 1.0.0 supports a maximum of one interrupter and a single or multiple broken cables.
+- Version 1.0 supports a maximum of one interrupter and a single or multiple broken cables.
 
 ## Program input
 The program takes a text file as input. The file must contain a set criteria of caracters.
