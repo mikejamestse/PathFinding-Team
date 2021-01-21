@@ -28,6 +28,7 @@ The program outputs the directions, step by step, on the console. Directions and
 
 - '0' : the team sets the interrupter to OFF
 - '1' : the team sets the interrupter to ON
+- 'R' : The cable is repaired
 - 'N' : North
 - 'S' : South
 - 'E' : Est
