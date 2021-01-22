@@ -1,6 +1,6 @@
 # PathFinding-Team
 
-***** Major refactoring comming up, applying SOLID's Single responsibility principle. *****
+~~Major refactoring comming up, applying SOLID's Single responsibility principle.~~ DONE
 
 Pathfinding AI implemented with the A* algorithm.
 
